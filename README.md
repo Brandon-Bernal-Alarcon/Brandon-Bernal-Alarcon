@@ -43,9 +43,21 @@ Currently, I work as a Financial Planning Intern, where I automate reporting pro
 - Integration of heterogeneous data sources  
 - Scalable and reproducible analytical workflows  
 
-<h4> Business Intelligence & Reporting </h4>
+## 🚀 Featured Projects
 
-- Advanced Excel and Power Query  
-- KPI definition and dashboard development  
-- Sales, financial, and contribution margin analysis  
-- Data-driven decision support  
+### 🤖 [AI Podcast Generator Agent (Python)](https://github.com/Brandon-Bernal-Alarcon)
+AI-powered agent that converts PDFs or natural language topics into podcast scripts and audio in over 30 languages, with customizable voices, speakers, and styles.  
+**Tech stack:** Python, AI Agents, NLP, Text-to-Speech
+
+---
+
+### 📊 [AI Data Analytics Studio](https://github.com/Brandon-Bernal-Alarcon)
+End-to-end analytics platform featuring interactive dashboards, AI-generated visual insights, and a recommendation assistant for sales optimization and cost reduction.  
+**Tech stack:** Python, Data Visualization, Machine Learning, AI Assistants
+
+
+
+
+
+
+

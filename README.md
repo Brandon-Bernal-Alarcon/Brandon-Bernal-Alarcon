@@ -45,7 +45,7 @@ Currently, I work as a Financial Planning Intern, where I automate reporting pro
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Podcast Generator Agent (Python)](https://github.com/Brandon-Bernal-Alarcon)
+### 🤖 [AI Podcast Generator Agent (Python)](https://github.com/Brandon-Bernal-Alarcon/ADK_Podcast)
 AI-powered agent that converts PDFs or natural language topics into podcast scripts and audio in over 30 languages, with customizable voices, speakers, and styles.  
 **Tech stack:** Python, AI Agents, NLP, Text-to-Speech
 
